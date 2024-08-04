@@ -12,8 +12,8 @@ const Hero = () => {
             Progress & Innovate with Quantum Pulse
           </h1>
           <p className="leading-5">
-            Where your business's digital aspirations become groundbreaking
-            realities, setting you apart in today's competitive market
+            Where your {`business's`} digital aspirations become groundbreaking
+            realities, setting you apart in {`today's`} competitive market
           </p>
         </div>
       </div>
